@@ -1,3 +1,4 @@
+require 'rugged'
 module SimpleCov
   module Formatter
     class GitChangesFormatter
